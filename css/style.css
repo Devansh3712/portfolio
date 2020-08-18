@@ -678,7 +678,7 @@ html {
 
 #wrapper .text-grid>.line {
 	overflow: hidden;
-	margin-left: -4.5%;
+	margin-left: 4.5%;
 	margin-bottom: 20px;
 	width: 100%
 }
