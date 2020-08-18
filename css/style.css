@@ -13,6 +13,24 @@ a span {
 	transition-timing-function: 'ease-in-out'
 }
 
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
+}
+
 .special-font-oswald {
 	font-family: 'Oswald', sans-serif
 }
@@ -3711,7 +3729,7 @@ html {
 }
 
 #wrapper #contact>#block1 {
-	background: #c2a376
+	background: #0d0c0c
 }
 
 #wrapper #contact>#block1>.centered {
@@ -4265,11 +4283,6 @@ html {
 	border-color: transparent
 }
 
-#particles-js
-{
-	height: 100%;
-	background: #000000;
-}
 
 body[data-language="en"] #wrapper .card-container.home .menu>li>a>span .big,
 body[data-language="en"] #wrapper .card-container.home .menu>li>a>span:before {
