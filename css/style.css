@@ -36,7 +36,7 @@ a span {
 html {
 	color: #1d1d1d;
 	font-size: 12px;
-	background: #000000
+	background: #0d0c0c
 }
 
 ::-moz-selection {
@@ -4263,6 +4263,12 @@ html {
 
 #wrapper #footer>.centered .credits a:hover {
 	border-color: transparent
+}
+
+#particles-js
+{
+	height: 100%;
+	background: #000000;
 }
 
 body[data-language="en"] #wrapper .card-container.home .menu>li>a>span .big,
