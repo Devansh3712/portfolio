@@ -2340,7 +2340,7 @@ html {
 }
 
 #wrapper #portfolio>#block1 {
-	background: #edede6
+	background: #0d0c0c
 }
 
 #wrapper #portfolio>#block1>.centered {
@@ -2395,12 +2395,14 @@ html {
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: .65em;
+	color: #ffffff;
 	padding-bottom: 35px
 }
 
 #wrapper #portfolio>#block1>.centered .framed-block .content>div .intro p {
 	font-family: 'Anonymous Pro';
 	font-size: 14px;
+	color: #ffffff;
 	line-height: 28px
 }
 
